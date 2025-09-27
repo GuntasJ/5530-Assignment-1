@@ -15,7 +15,7 @@
     median           0.0  
     std              0.0 
 
-| Tables        | Are           | Cool  |
+| Height | Weight |Age  Grip strength |  BMI | Frailty_binary | AgeGroup_<30 | AgeGroup_30-45 | AgeGroup_46-60   |  AgeGroup_>60    |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
