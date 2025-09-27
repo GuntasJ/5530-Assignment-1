@@ -1,4 +1,5 @@
 <img width="300" height="235" alt="image" src="https://github.com/user-attachments/assets/e0bb93d7-5ffc-4dde-b870-d83e252a462a" />
+There exists a small difference between male and female scores. The differnce favors males in math scores, and it favors femals in reading scores. There exists outliers for female and male students, however, there seems to be a wider distribution of female outliers. It should be noted that the median for each of the genders is particularly close in math, with a somewhat larger difference in reading.
 
 <img width="363" height="235" alt="image" src="https://github.com/user-attachments/assets/734086cd-5fc0-43ba-b719-40cbeed3eb5d" />
 
